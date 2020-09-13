@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^(www\.)?reportmaker\.co\.uk [NC]
+RewriteRule ^(.*)$ http://reportmaker.co.uk/$1 [R]

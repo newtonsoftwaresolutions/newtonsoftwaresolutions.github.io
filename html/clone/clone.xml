@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<XML_DIZ_INFO>
+<MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>1.15</MASTER_PAD_VERSION>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+</MASTER_PAD_VERSION_INFO>
+<Company_Info>
+        <Company_Name>Newton Software</Company_Name>
+        <Address_1>18 Dilston Ave</Address_1>
+        <City_Town>Whitley Bay</City_Town>
+        <State_Province>Tyne & Wear</State_Province>
+        <Zip_Postal_Code>NE25 8QG</Zip_Postal_Code>
+        <Country>United Kingdom</Country>
+        <Company_WebSite_URL>http://newtonsoftware.co.uk</Company_WebSite_URL>
+<Contact_Info>
+        <Author_First_Name>Tim</Author_First_Name>
+        <Author_Last_Name>Newton</Author_Last_Name>
+        <Author_Email>tim@newtonsoftware.co.uk</Author_Email>
+        <Contact_First_Name>Tim</Contact_First_Name>
+        <Contact_Last_Name>Newton</Contact_Last_Name>
+        <Contact_Email>tim@newtonsoftware.co.uk</Contact_Email>
+    </Contact_Info>
+<Support_Info>
+        <Sales_Email>tim@newtonsoftware.co.uk</Sales_Email>
+        <Support_Email>tim@newtonsoftware.co.uk</Support_Email>
+        <General_Email>tim@newtonsoftware.co.uk</General_Email>
+        <Sales_Phone />
+        <Support_Phone />
+        <General_Phone />
+        <Fax_Phone />
+    </Support_Info>
+</Company_Info>
+<Program_Info>
+        <Program_Name>Clone</Program_Name>
+        <Program_Version>2.1.0</Program_Version>
+        <Program_Release_Month>07</Program_Release_Month>
+        <Program_Release_Day>23</Program_Release_Day>
+        <Program_Release_Year>2003</Program_Release_Year>
+        <Program_Cost_Dollars>30</Program_Cost_Dollars>
+        <Program_Cost_Other_Code />
+        <Program_Cost_Other />
+        <Program_Type>Demo</Program_Type>
+        <Program_Release_Status>Major Update</Program_Release_Status>
+        <Program_Install_Support>Install Only</Program_Install_Support>
+        <Program_OS_Support>Win95,Win98,WinME,WinNT 3.x,WinNT 4.x,WinXP,Windows2000</Program_OS_Support>
+        <Program_Language>English</Program_Language>
+<File_Info>
+        <Filename_Versioned>cloneInstall.exe</Filename_Versioned>
+        <Filename_Previous>cloneInstall.exe</Filename_Previous>
+        <Filename_Generic>cloneInstall.exe</Filename_Generic>
+        <Filename_Long>cloneInstall.exe</Filename_Long>
+        <File_Size_Bytes>3939328</File_Size_Bytes>
+        <File_Size_K>3847</File_Size_K>
+        <File_Size_MB>3.85</File_Size_MB>
+    </File_Info>
+<Expire_Info>
+        <Has_Expire_Info>Y</Has_Expire_Info>
+        <Expire_Count>30</Expire_Count>
+        <Expire_Based_On>Days</Expire_Based_On>
+        <Expire_Other_Info />
+        <Expire_Month />
+        <Expire_Day />
+        <Expire_Year />
+    </Expire_Info>
+        <Program_Change_Info />
+        <Program_Specific_Category>Utilities</Program_Specific_Category>
+        <Program_Categories>utilities,screen saverd</Program_Categories>
+        <Program_System_Requirements />
+        <Includes_JAVA_VM>N</Includes_JAVA_VM>
+        <Includes_VB_Runtime>Y</Includes_VB_Runtime>
+        <Includes_DirectX>N</Includes_DirectX>
+</Program_Info>
+<Program_Descriptions>
+<English>
+        <Keywords>Clone file backup utility screensaver screen saver Tim Newton synchronisation sync synchronization replicate software configuration management CDRW CD-RW UNC path newtonsoftware newton software clone</Keywords>
+        <Char_Desc_45>A backup tool that can run as a screen saver</Char_Desc_45>
+        <Char_Desc_80>A backup utility that also runs as a screen saver. Copies files to any path</Char_Desc_80>
+        <Char_Desc_250>Clone is a backup utility that also runs as a screen saver. Clone copies files to any media that can be mapped to a windows drive or UNC path, e.g. CDRW</Char_Desc_250>
+        <Char_Desc_450>Clone allows you to backup your files. Clone can be run as either a screen saver or as a standard windows utility. Run as a screensave, clone backups up the data that is important to you while you take a break from your computer. This ensures you have a copy of your most important files backed up. Clone copies files from one location to another. This can be another hard disk, your CR-RW drive or any other media mapped to a drive or UNC path.</Char_Desc_450>
+        <Char_Desc_2000>Clone allows you to backup your files. Clone can be run as either a screen saver or as a standard windows utility. Run as a screensave, clone backups up the data that is important to you while you take a break from your computer. This ensures you have a copy of your most important files backed up. 
+Clone copies files from one location to another. This can be another directory on your hard disk, another hard disk altogether, your CR-RW drive, your floppy disk / zip disk or a network file server. Clone will copy files to any media that can be mapped as a windows directory. As well as making a backup copy you can specify clone keeps old versions of your files, allowing you to go back to a previous version of a file if required. Clone is incredible easy to run and configure.
+Clone keeps a track of how many files it has checked and copied so you always know what the program is doing. 
+Main Features 
+1) Backup files and directories to a defined location - as many as you like 
+2) Uses the date and time, file size or the archive attribute to determine if a file should be copied 
+3) Run as a standard windows utility or as a screen saver 
+4) If using screen saver mode you can still run your favourite screen saver as well 
+5) Backup to any media (including CD-RW) that can be mapped to a windows drive or UNC path 
+6) Schedule backs to occur at set intervals e.g. every 60 minutes 
+7) Statistics tell you how many files have been analysed / copied 
+8) Statistics tell you if any errors have occurred 
+9) A logfile informs you of any problems that have occurred 
+10) System tray support. Clone is hidden and doesn't clutter your task bar or desktop 
+11) Can be set to automatically start when windows is started 
+12) Keep copies of old versions of files which you can go back to later if required 
+13) Software developers can keep old version of files for backup and configuration management purposes 
+14) Easy to use interface 
+15) Help file included</Char_Desc_2000>
+</English>
+</Program_Descriptions>
+<Web_Info>
+<Application_URLs>
+        <Application_Info_URL>http://newtonsoftware.co.uk/clone</Application_Info_URL>
+        <Application_Order_URL>http://newtonsoftware.co.uk/clone/purchase.html</Application_Order_URL>
+        <Application_Screenshot_URL>http://newtonsoftware.co.uk/clone/stats.gif</Application_Screenshot_URL>
+        <Application_Icon_URL>http://newtonsoftware.co.uk/clone/icon.gif</Application_Icon_URL>
+        <Application_XML_File_URL>http://newtonsoftware.co.uk/clone/clone.xml</Application_XML_File_URL>
+    </Application_URLs>
+<Download_URLs>
+        <Primary_Download_URL>http://newtonsoftware.co.uk/clone/cloneInstall.exe</Primary_Download_URL>
+        <Secondary_Download_URL />
+        <Additional_Download_URL_1 />
+        <Additional_Download_URL_2 />
+    </Download_URLs>
+</Web_Info>
+<Permissions>
+        <Distribution_Permissions>Clone may be distributed by any 3rd party as long as the installation file remains the same as :-
+http://newtonsoftware.co.uk/clone/cloneInstall.exe</Distribution_Permissions>
+        <EULA>Copyright and Legal ObligationsCopyright and Legal Obligations 
+End User Licence Agreement (EULA) for Clone
+SOFTWARE PRODUCT LICENSE
+Clone is protected by copyright laws and international copyright treaties, as 
+well as other intellectual property laws and treaties. Clone is licensed, not 
+sold.
+1. GRANT OF LICENSE.
+This EULA grants you the following rights with respect to Clone:
+Tim Newton grants you an individual, personal, nonexclusive license to make and 
+use copies of Clone for the sole purpose of using it. You may install copies of 
+Clone on a maximum of 2 computers provided that you are the only 
+individual using Clone. If you are an entity, Tim Newton grants you the right to 
+designate one individual within your organization to have the right to use Clone 
+in the manner provided above.
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+- Limitations on Reverse Engineering, Decompilation, and Disassembly.
+You may not reverse engineer, decompile, or disassemble the object code portions 
+of Clone, except and only to the extent that such activity is expressly 
+permitted by applicable law notwithstanding this limitation.
+- Software Transfer.
+You may permanently transfer all of your rights (not a part of them) under this 
+EULA, provided the recipient agrees to the terms of this EULA.
+- Termination. Without prejudice to any other rights, Tim Newton may terminate 
+this EULA if you fail to comply with the terms and conditions of this EULA. In 
+such event, you must destroy all copies of Clone and all of its component parts.
+3. COPYRIGHT.
+All title and copyrights in and to Clone (including but not limited to any 
+images, photographs, animations, video, audio, music, and text incorporated into 
+Clone), and any copies of Clone are owned by Tim Newton. Clone is protected by 
+copyright laws and international treaty provisions. Therefore, you must treat 
+Clone like any other copyrighted material.
+LIMITED WARRANTY
+NO WARRANTIES.
+Tim Newton expressly disclaims any warranty for Clone. Clone and any related 
+documentation is provided &quot;as is&quot; without warranty of any kind, either express 
+or implied, including, without limitation, the implied warranties or 
+merchantability, fitness for a particular purpose, or noninfringement. The 
+entire risk arising out of use or performance of Clone remains with you.
+NO LIABILITY FOR DAMAGES.
+In no event shall Tim Newton be liable for any damages whatsoever (including, 
+without limitation, damages for loss of business profits, business interruption, 
+loss of business information, or any other pecuniary loss) arising out of the 
+use of or inability to use this product, even if Tim Newton has been advised of 
+the possibility of such damages.</EULA>
+</Permissions>
+</XML_DIZ_INFO>
